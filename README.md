@@ -2,20 +2,20 @@
 Vektorisierte Bilder für ioBroker zum erstellen einer Poolschematik im VIS
 
 # Enthaltene Bilder
-*Pool
+* Pool
 
-*Filter mit Pumpe
+* Filter mit Pumpe
 
-*Heizung
+* Heizung
 
-*Rohr
+* Rohr
 
-*Schieber horizontal
+* Schieber horizontal
 
-*Schieber vertikal
+* Schieber vertikal
 
-*T-Stück
+* T-Stück
 
-*Winkel nach rechts
+* Winkel nach rechts
 
-*Winkel nach links
+* Winkel nach links
